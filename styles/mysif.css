@@ -4,4 +4,5 @@ div{
     border:5px;
     border-color: blueviolet;
     border-style: double;
+    margin: 10px;
 }
